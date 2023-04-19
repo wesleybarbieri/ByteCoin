@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		8D52CCC627C9A4A60025CF88 /* CoinData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D52CCC527C9A4A60025CF88 /* CoinData.swift */; };
 		8D52CCC927C9B0F10025CF88 /* CoinModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D52CCC827C9B0F10025CF88 /* CoinModel.swift */; };
+		8DE08B1B29F0A6FF00A61577 /* teste.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DE08B1A29F0A6FF00A61577 /* teste.swift */; };
 		ADA8AC092329367100626376 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA8AC082329367100626376 /* AppDelegate.swift */; };
 		ADA8AC0B2329367100626376 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA8AC0A2329367100626376 /* SceneDelegate.swift */; };
 		ADA8AC0D2329367100626376 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA8AC0C2329367100626376 /* ViewController.swift */; };
@@ -21,6 +22,7 @@
 /* Begin PBXFileReference section */
 		8D52CCC527C9A4A60025CF88 /* CoinData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinData.swift; sourceTree = "<group>"; };
 		8D52CCC827C9B0F10025CF88 /* CoinModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinModel.swift; sourceTree = "<group>"; };
+		8DE08B1A29F0A6FF00A61577 /* teste.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = teste.swift; sourceTree = "<group>"; };
 		ADA8AC052329367100626376 /* ByteCoin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ByteCoin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADA8AC082329367100626376 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ADA8AC0A2329367100626376 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 			isa = PBXGroup;
 			children = (
 				ADA8AC0C2329367100626376 /* ViewController.swift */,
+				8DE08B1A29F0A6FF00A61577 /* teste.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 				8D52CCC627C9A4A60025CF88 /* CoinData.swift in Sources */,
 				ADA8AC092329367100626376 /* AppDelegate.swift in Sources */,
 				8D52CCC927C9B0F10025CF88 /* CoinModel.swift in Sources */,
+				8DE08B1B29F0A6FF00A61577 /* teste.swift in Sources */,
 				ADA8AC0B2329367100626376 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
